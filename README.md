@@ -23,6 +23,6 @@ To address the above issues, the proposed web app will leverage Natural Language
  6. Run "streamlit run App.py"
 
 
-                                           Designed by Christopher Thabo Rampora - School Research Project - ISJ117V
+               Designed by Christopher Thabo Rampora - School Research Project - ISJ117V
 
 
