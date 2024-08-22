@@ -291,7 +291,7 @@ def run():
         st.image(img)
         st.success('Welcome to Admin Side')
         st.sidebar.image("./Logo/admin-panel.png", width=270)
-        progress = st.sidebar.progress(1000) 
+        progress = st.sidebar.progress(100) 
         
         ad_user = st.text_input("**Username**")       
         ad_password = st.text_input("**Password**", type='password')
