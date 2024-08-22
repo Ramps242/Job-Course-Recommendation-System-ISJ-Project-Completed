@@ -11,5 +11,20 @@ The main issue is that most graduates are often lacking awareness of the specifi
 Another issue is that graduates are also unaware of the short courses that can enhance their employability. They may not know which expertise is in high demand in the job market or maybe which short certificate can help them to acquire those skills. Because they don't have enough information, they miss out on chances to learn new things and become experts in specific areas that would make them more appealing to employers.
 
 #2.PROBLEM SOLUTION
-To address the above issues, the proposed of the web app that will leverages Natural Language Processing to analyze the resumes and extract essential detail such as skills. By using the information of skills that they obtained from Work Integrated Learning (WIL)/ internship practical experience, the system will provide personalized recommendations for suitable job titles and relevant online short courses certification using a random forest algorithm that will learn the patterns from the datasets that I will be using from Kaggle, with a help of collaborative filtering technique approach. 
+To address the above issues, the proposed web app will leverage Natural Language Processing to analyze the resumes and extract essential detail such as skills. By using the information of skills that they obtained from Work Integrated Learning (WIL)/ internship practical experience, the system will provide personalized recommendations for suitable job titles and relevant online short courses certification using a random forest algorithm that will learn the patterns from the datasets that I will be using from Kaggle, with a help of collaborative filtering technique approach. 
+
+
+
+                          **Following The steps to utilize the pp**
+ 1. Download the dataset from Kaggle named " jobs_dataset_with_features", cause I could not upload it. It was too large for Git
+ 2. Other datasets are uploaded make use of them
+ 3. Re-run all the models and save the model as an extension of .pkl( make sure dataset readers are on the same path)
+ 4. Install the kernel Python packages for models
+ 5. install streamlit packages
+ 6. Run "streamlit run App.py"
+
+                                       ALL WILL BE GOOD!!!!
+
+Designed by Christopher Thabo Rampora - School Research Project - ISJ117V
+
 
