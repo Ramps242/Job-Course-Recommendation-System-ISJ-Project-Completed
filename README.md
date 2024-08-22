@@ -14,8 +14,7 @@ Another issue is that graduates are also unaware of the short courses that can e
 To address the above issues, the proposed web app will leverage Natural Language Processing to analyze the resumes and extract essential detail such as skills. By using the information of skills that they obtained from Work Integrated Learning (WIL)/ internship practical experience, the system will provide personalized recommendations for suitable job titles and relevant online short courses certification using a random forest algorithm that will learn the patterns from the datasets that I will be using from Kaggle, with a help of collaborative filtering technique approach. 
 
 
-
-                          **Following The steps to utilize the pp**
+ **Following The steps to utilize the recommendation system**
  1. Download the dataset from Kaggle named " jobs_dataset_with_features", cause I could not upload it. It was too large for Git
  2. Other datasets are uploaded make use of them
  3. Re-run all the models and save the model as an extension of .pkl( make sure dataset readers are on the same path)
@@ -23,8 +22,7 @@ To address the above issues, the proposed web app will leverage Natural Language
  5. install streamlit packages
  6. Run "streamlit run App.py"
 
-                                       ALL WILL BE GOOD!!!!
 
-Designed by Christopher Thabo Rampora - School Research Project - ISJ117V
+                    Designed by Christopher Thabo Rampora - School Research Project - ISJ117V
 
 
